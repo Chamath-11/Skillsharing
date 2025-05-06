@@ -1,2 +1,0 @@
-# Skillsharing
- Paf project
